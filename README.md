@@ -48,3 +48,7 @@ Como entender o comportamento dos clientes, a eficiência logística e o desempe
 ## 📌 Sobre o projeto
 
 Projeto acadêmico com foco prático em análise de dados aplicada a operações e tomada de decisão.
+
+## Base de Dados
+
+- Kaggle: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download&select=olist_order_payments_dataset.csv
