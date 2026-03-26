@@ -25,6 +25,11 @@ Identificar padrões de comportamento de clientes, desempenho de produtos e efic
 - Diferenças logísticas entre regiões
 - Aproximadamente 80% dos clientes inativos
 
+## 📊 Visualizações
+- Faturamento
+<img width="1363" height="768" alt="Faturamento" src="https://github.com/user-attachments/assets/d5fc6aac-9307-440d-b7cc-28de72bc70a4" />
+
+
 ## 🚀 Propostas de Melhoria
 - Otimização logística em regiões críticas
 - Estratégias de retenção de clientes
